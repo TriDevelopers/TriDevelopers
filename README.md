@@ -32,24 +32,16 @@ I'm a rising senior CS student at UTD. I had no prior experience coming to CS as
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <br/>
+<br/>
 
 #
 
- <h3>🔥 Leetcode Grind</h3>
+### 🔥 Leetcode Grind
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Tri_Ngo?theme=nord)](https://leetcode.com/Tri_Ngo)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Tri_Ngo?theme=nord&font=HubotSans&extension=activity)](https://leetcode.com/Tri_Ngo)
 
-<!--
-**TriDevelopers/TriDevelopers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+ <summary><h3> 🌱 Coding Journey </h3></summary>
+  Updating...
