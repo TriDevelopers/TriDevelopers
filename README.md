@@ -32,7 +32,6 @@ I'm a rising senior CS student at UTD. I had no prior experience coming to CS as
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <br/>
-<br/>
 
 #
 
