@@ -1,6 +1,11 @@
-### Hi there 👋
+# 👨‍💻 Tri Ngo
 
-**'Digital Craftsman (Student/Developer)'**
+**`Digital Craftsman (Student/Developer)`**
+
+I'm a rising senior CS student at UTD
+
+
+📫 Email: ndmt.2503@gmail.com
 
 <!--
 **TriDevelopers/TriDevelopers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
