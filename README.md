@@ -10,6 +10,8 @@ I am a rising senior CS student at UTD. My main focus is <b>Backend Development<
 
 📫 Email: ndmt.2503@gmail.com
 
+📄 Resume on my LinkedIn: https://www.linkedin.com/in/tridinhminhngo/
+
 ---
 
 ### 🧰 Languages and Tools
