@@ -4,7 +4,7 @@
 
 I am a rising senior CS student at UTD. My main focus is <b>Backend Development</b>. I love to explore different field of software development. I am currently learning HTML/CSS/JavaScript with React Native, CyberSecurity, mySQL and Docker. I also document my code on Github along this learning process. 
 
-🔭 My current goal: Build a profolio website and land an <b>Internship</b> offer for Summer 2023
+🔭 My current goal: Build a profolio website and land an <b>Internship</b> offer for Summer 2024
 
 ⚡ Fun fact: I love pixel art 👾
 
