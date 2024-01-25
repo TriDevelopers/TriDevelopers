@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Student/Developer)`**
 
-I am a rising senior CS student at UTD. My main focus is <b>Backend Development</b>. I love to explore different field of software development. I am currently learning HTML/CSS/JavaScript with React Native, CyberSecurity, mySQL and Docker. I also document my code on Github along this learning process. 
+I am a 4th-year student at UTD enrolled in a Fast Track CS Program. I will graduate with my Bachelor Degree in May 2024 and Master Degree in May 2025 My main focus is <b>Backend Development</b>. I love to explore different field of software development. I am currently learning HTML/CSS/JavaScript with React Native, CyberSecurity, mySQL and Docker. I also document my code on Github along this learning process. 
 
 🔭 My current goal: Build a profolio website and land an <b>Internship</b> offer for Summer 2024
 
